@@ -1,4 +1,4 @@
-# DaijiroNijiiro-FHDSkin
+# Daijiro 2 Nijiiro-Style FHD Skin Project
 
 - This is for the development of あきら Ch’s Taiko-san Daijiro 2 Nijiiro-Style Skin.
 - あきらChの太鼓さん大次郎2にじいろ風スキンの開発用です。
@@ -10,6 +10,14 @@ I really need help with a lot of things, so I would heavily appriciate any work 
 - All FHD Textures
 - IA, Miku, Touhou, iM@S Addons
 - Nameplate Shining Effect
+
+## Info
+
+### Goals
+
+- Normalize Skinning and Make a better place for aspiring skinners.
+- Make a Nijiiro Style Skin that everyone can use
+- Unifying the Daijiro Skinning Community
 
 ## In Game:
 ![IMG_7405](https://user-images.githubusercontent.com/89967231/131828818-14a8226b-5697-4a32-92c2-a064d3f9b6cc.jpeg)
